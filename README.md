@@ -7,7 +7,6 @@
 
 ---
 
-<img src="https://media.discordapp.net/attachments/999280554241441832/1005925578953719959/unknown.png" alt="Preview" width="50%" align="center" />
 
 <h3>Usage</h3>
 
